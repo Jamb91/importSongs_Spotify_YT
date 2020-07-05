@@ -10,3 +10,5 @@ Hi all! I create this code with the aim of transferring all my favorite songs fr
 
 Thanks and regards!
 Disclaimer: This code cannot be taken to learn or as a guide, but as inspiration to generate similar programs in its use, personally I do not have any CS or similar studies and I am simply a person who had a need and basic / medium knowledge programming using Python.
+
+The program connects to your Spotify account with the Facebook account and the YouTube Music account via Google
